@@ -1,0 +1,13 @@
+{
+    "name": "\u9661\u5761\u6392\u884c",
+    "short_name": "slope",
+    "contest": "THSPC2020",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (49)",
+        "Subtask 2 (51)"
+    ],
+    "order": 1,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

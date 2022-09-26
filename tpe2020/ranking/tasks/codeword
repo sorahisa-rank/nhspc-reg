@@ -1,0 +1,14 @@
+{
+    "name": "\u8adc\u6230\u98a8\u96f2",
+    "short_name": "codeword",
+    "contest": "THSPC2020",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (33)",
+        "Subtask 2 (33)",
+        "Subtask 3 (34)"
+    ],
+    "order": 3,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

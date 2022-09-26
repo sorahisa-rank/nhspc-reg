@@ -1,0 +1,14 @@
+{
+    "name": "\u5a5a\u79ae\u7684\u88dd\u98fe",
+    "short_name": "decorations",
+    "contest": "THSPC2020",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (19)",
+        "Subtask 2 (33)",
+        "Subtask 3 (48)"
+    ],
+    "order": 2,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}
