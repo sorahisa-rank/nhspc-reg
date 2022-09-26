@@ -1,0 +1,15 @@
+{
+    "extra_headers": [
+        "Subtask 1 (23)",
+        "Subtask 2 (32)",
+        "Subtask 3 (26)",
+        "Subtask 4 (19)"
+    ],
+    "name": "\u7269\u7a2e\u6f14\u5316",
+    "short_name": "Evolution",
+    "contest": "THSPC2019",
+    "score_precision": 0,
+    "score_mode": "max",
+    "max_score": 100,
+    "order": 3
+}

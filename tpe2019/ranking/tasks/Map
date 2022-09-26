@@ -1,0 +1,14 @@
+{
+    "extra_headers": [
+        "Subtask 1 (17)",
+        "Subtask 2 (27)",
+        "Subtask 3 (56)"
+    ],
+    "name": "\u5730\u5716\u7de8\u4fee",
+    "short_name": "Map",
+    "contest": "THSPC2019",
+    "score_precision": 0,
+    "score_mode": "max",
+    "max_score": 100,
+    "order": 1
+}

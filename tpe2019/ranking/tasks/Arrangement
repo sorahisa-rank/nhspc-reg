@@ -1,0 +1,15 @@
+{
+    "extra_headers": [
+        "Subtask 1 (19)",
+        "Subtask 2 (19)",
+        "Subtask 3 (29)",
+        "Subtask 4 (33)"
+    ],
+    "name": "\u51fa\u6230\u6392\u5e8f",
+    "short_name": "Arrangement",
+    "contest": "THSPC2019",
+    "score_precision": 0,
+    "score_mode": "max",
+    "max_score": 100,
+    "order": 0
+}
