@@ -1,4 +1,10 @@
 -   北市賽
-    -   2019：https://sorahisa-rank.github.io/nhspc-reg/tpe2019/ranking/
-    -   2020：https://sorahisa-rank.github.io/nhspc-reg/tpe2020/ranking/
-    -   2021：https://sorahisa-rank.github.io/nhspc-reg/tpe2021/ranking/
+    -   [2018 缺 A on TIOJ](https://tioj.ck.tp.edu.tw/problems/tag/2018-%E5%8C%97%E5%B8%82%E8%B3%BD)
+        -   [題本](https://sorahisa-rank.github.io/nhspc-reg/tpe2018/problems.pdf)
+    -   [2019 on TIOJ](https://tioj.ck.tp.edu.tw/problems/tag/2019-%E5%8C%97%E5%B8%82%E8%B3%BD)
+        -   [題本](https://sorahisa-rank.github.io/nhspc-reg/tpe2019/problems.pdf)
+        -   [正式賽](https://sorahisa-rank.github.io/nhspc-reg/tpe2019/ranking/)
+    -   2020
+        -   [正式賽](https://sorahisa-rank.github.io/nhspc-reg/tpe2020/ranking/)
+    -   2021
+        -   [正式賽](https://sorahisa-rank.github.io/nhspc-reg/tpe2021/ranking/)
