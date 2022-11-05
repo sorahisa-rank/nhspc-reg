@@ -1,0 +1,17 @@
+{
+    "name": "\u8ff4\u6587\u65b9\u5f62",
+    "short_name": "Palindrome_Square",
+    "contest": "NTHSPC02",
+    "max_score": 20.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (2)",
+        "Subtask 3 (3)",
+        "Subtask 4 (4)",
+        "Subtask 5 (5)",
+        "Subtask 6 (6)"
+    ],
+    "order": 0,
+    "score_mode": "max_subtask",
+    "score_precision": 2
+}

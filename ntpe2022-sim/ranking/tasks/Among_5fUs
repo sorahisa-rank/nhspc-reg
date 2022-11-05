@@ -1,0 +1,17 @@
+{
+    "name": "\u592a\u7a7a\u72fc\u4eba\u6bba",
+    "short_name": "Among_Us",
+    "contest": "NTHSPC01",
+    "max_score": 20.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (2)",
+        "Subtask 3 (3)",
+        "Subtask 4 (4)",
+        "Subtask 5 (5)",
+        "Subtask 6 (6)"
+    ],
+    "order": 0,
+    "score_mode": "max_subtask",
+    "score_precision": 2
+}

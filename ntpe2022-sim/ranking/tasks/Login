@@ -1,0 +1,17 @@
+{
+    "name": "\u767b\u5165\u7cfb\u7d71",
+    "short_name": "Login",
+    "contest": "NTHSPC01",
+    "max_score": 20.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (2)",
+        "Subtask 3 (3)",
+        "Subtask 4 (4)",
+        "Subtask 5 (5)",
+        "Subtask 6 (6)"
+    ],
+    "order": 1,
+    "score_mode": "max_subtask",
+    "score_precision": 2
+}

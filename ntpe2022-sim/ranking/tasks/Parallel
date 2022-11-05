@@ -1,0 +1,16 @@
+{
+    "name": "\u6700\u591a\u5e73\u884c\u7684\u5e73\u884c\u7dda\u6bb5",
+    "short_name": "Parallel",
+    "contest": "NTHSPC01",
+    "max_score": 20.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (4)",
+        "Subtask 3 (5)",
+        "Subtask 4 (5)",
+        "Subtask 5 (6)"
+    ],
+    "order": 5,
+    "score_mode": "max_subtask",
+    "score_precision": 2
+}

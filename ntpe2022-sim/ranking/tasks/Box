@@ -1,0 +1,17 @@
+{
+    "name": "\u9ed1\u767d\u7bb1\u5b50",
+    "short_name": "Box",
+    "contest": "NTHSPC01",
+    "max_score": 20.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (2)",
+        "Subtask 3 (3)",
+        "Subtask 4 (4)",
+        "Subtask 5 (5)",
+        "Subtask 6 (6)"
+    ],
+    "order": 3,
+    "score_mode": "max_subtask",
+    "score_precision": 2
+}
