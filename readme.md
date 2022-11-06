@@ -8,6 +8,8 @@
         -   [正式賽](https://sorahisa-rank.github.io/nhspc-reg/tpe2020/ranking/)
     -   2021
         -   [正式賽](https://sorahisa-rank.github.io/nhspc-reg/tpe2021/ranking/)
+    -   2022
+        -   [正式賽](https://sorahisa-rank.github.io/nhspc-reg/tpe2022/ranking/)
 -   新北市賽
     -   2022 板中模擬賽
         -   [上午場題本](https://sorahisa-rank.github.io/nhspc-reg/ntpe2022-sim/problems-1.pdf)

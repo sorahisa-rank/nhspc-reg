@@ -1,0 +1,14 @@
+{
+    "name": "Cards",
+    "short_name": "Cards",
+    "contest": "THSPC_2d2022",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (18)",
+        "Subtask 2 (29)",
+        "Subtask 3 (53)"
+    ],
+    "order": 1,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}
